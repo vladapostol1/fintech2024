@@ -1,0 +1,98 @@
+[
+    {
+        "uid": "59a132bb-8e9c-4177-8bb1-836e8cc37f4d",
+        "username": "demo",
+        "email": "gAAAAABmSLSjxXOYrnMkkCxsNj_5j0po__-_sckRh-YL63peQaWyzv91B-LSd2Hy5BBdIptORBcNRTVxLsFgy_9QZ3DAlj65CqZ68iz89hipgcaRBm4QGmU=",
+        "name": "Apostol",
+        "surname": "Vlad",
+        "phone_number": "gAAAAABmSLSjfMyLl11fVEFJNKbKvEysX70QasCq1pf8fblMabKyPjJ3QUS4LPj2R6NXel0M8jZOBuJOsmtgD63fFU5Bq5MFJw==",
+        "password": "gAAAAABmSLSjM6SD_etA_pDeVRrYgly3HNlUbhAdqJF6qBP8J2b6eZgV2tgtF5MQhRs3CpdZ4A82M_wizIIMIWh60UWEeZxFSu_f2mWr7f0j58raUiVNi5JfAn8w_tLB2EzTj9-D2dRkVyJkCyD9Qk7CunE1mxAUdg==",
+        "IBAN": "RO12BANK3899397263906389",
+        "account_balance": "gAAAAABmSLSjCscAb9gvScG0LIve1cBY7JsEX7phtbv20jBmw4XRJkQMoClK3zAvaKKfedY8D-3xr-oxjoU3FLCf8Pk8BpG1vQ==",
+        "history_transactions": [
+            {
+                "from": "RO58BANK8336475565787625",
+                "to": "RO12BANK3899397263906389",
+                "amount": 150.0,
+                "timestamp": "2024-05-17 17:04:55.698714",
+                "to_name": "Apostol Vlad",
+                "to_reason": "Loan repayment"
+            },
+            {
+                "from": "RO12BANK3899397263906389",
+                "to": "RO58BANK8336475565787625",
+                "amount": 20.0,
+                "timestamp": "2024-05-18 12:06:34.972830",
+                "to_name": "SEBI POPOVICI",
+                "to_reason": "Sending money"
+            },
+            {
+                "from": "RO12BANK3899397263906389",
+                "to": "RO58BANK8336475565787625",
+                "amount": 20.0,
+                "timestamp": "2024-05-18 14:01:07.281397",
+                "to_name": "Sebi Popovici",
+                "to_reason": "Sending money"
+            }
+        ],
+        "managed_accounts": [
+            {
+                "IBAN": "RO59BANK1197297062255681",
+                "account_name": "Economii",
+                "account_balance": 100.0
+            }
+        ],
+        "requests": []
+    },
+    {
+        "uid": "baf27ca9-394e-49d0-b3f0-856bda632d63",
+        "username": "demo2",
+        "email": "gAAAAABmSLSjX8sB8ELdWSftNLpPT3rFNzxO-J9kEs_zcMykm7q0IhSakqmU8hPfRQp1-5s17020tSZVabK6q5z2A43ZmSYIYoVffJX-0IEgryqshDVmqIU=",
+        "name": "Popovici",
+        "surname": "Sebastian",
+        "phone_number": "gAAAAABmSLSjGLFircAMHX17R57ZjdeHhRe-hpQQ4vEd_knagjg7ZoaY8Xb19gVK90r8GjHOSpDE4qtDmcHPWtF3zR-6u5zh8g==",
+        "password": "gAAAAABmSLSjDCCAJJgwfqdXQflwEKlICROedb-c_unZrMM4j1-sUL-1t6mncgovlVp2crdXZVJVMp6qpG1FVgwNdQG4CI1up2_3s06pqc42Dihgyb16tbdc7iwTi80yAnyhxBkp0vqC3esPB7pSq30h2c4DzDa_uA==",
+        "IBAN": "RO58BANK8336475565787625",
+        "account_balance": "gAAAAABmSLSjdVF0ObKDgNh9iUIhluOuCTLJCdsON9Tt4CnbrrFHPZUXFQSPUfkTnHp6Ur-nME7FIMw9K5-Km__ZoVE6vWwc5w==",
+        "history_transactions": [
+            {
+                "from": "RO58BANK8336475565787625",
+                "to": "RO12BANK3899397263906389",
+                "amount": 150.0,
+                "timestamp": "2024-05-17 17:04:55.698714",
+                "to_name": "Apostol Vlad",
+                "to_reason": "Loan repayment"
+            },
+            {
+                "from": "RO12BANK3899397263906389",
+                "to": "RO58BANK8336475565787625",
+                "amount": 20.0,
+                "timestamp": "2024-05-18 12:06:34.972830",
+                "to_name": "SEBI POPOVICI",
+                "to_reason": "Sending money"
+            },
+            {
+                "from": "RO12BANK3899397263906389",
+                "to": "RO58BANK8336475565787625",
+                "amount": 20.0,
+                "timestamp": "2024-05-18 14:01:07.281397",
+                "to_name": "Sebi Popovici",
+                "to_reason": "Sending money"
+            }
+        ],
+        "managed_accounts": [],
+        "requests": [
+            {
+                "request_id": "ab656e4e-a85f-48f4-a059-17e862ec6ed3",
+                "requester_id": "59a132bb-8e9c-4177-8bb1-836e8cc37f4d",
+                "requester_name": "Apostol Vlad",
+                "amount": 150.0,
+                "reason": "gAAAAABmSLSjVmwj-R6v50TN0XRMFRin-zLf8VDalzCT4gTqAvGySU0AGg5jJQWO49JuOIjgSnbiGC1tWXx_wZjyNjdBL8OpDw==",
+                "from_iban": "gAAAAABmSLSjgo75YGNbc3nCku-tXK8HMX7jpfq5YbmBhn9NrMTPorTAsFqrC_Yra1kmFRB5dqWvyu-fh453rQ5j0MKaycEV4Q0LY7GZQLl5Va5GgPIceKw=",
+                "timestamp": "2024-05-17 17:03:58.558135",
+                "status": "accepted",
+                "tag": "new"
+            }
+        ]
+    }
+]

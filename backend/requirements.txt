@@ -1,0 +1,5 @@
+Flask
+bcrypt
+uuid
+cryptography
+requests
